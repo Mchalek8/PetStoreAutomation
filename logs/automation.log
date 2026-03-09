@@ -58,3 +58,12 @@
 12:37:33.239 [main] INFO  api.test.UserTestsForPropertiesResources - ********** User info updated ***********
 12:37:33.240 [main] INFO  api.test.UserTestsForPropertiesResources - ********** Deleting user ***********
 12:37:34.633 [main] INFO  api.test.UserTestsForPropertiesResources - ********** User deleted ***********
+12:13:48.932 [main] DEBUG api.test.UserTestsForPropertiesResources - debuging
+12:13:48.947 [main] INFO  api.test.UserTestsForPropertiesResources - ********** Creating user **********
+12:13:51.282 [main] INFO  api.test.UserTestsForPropertiesResources - ********** User created successfully **********
+12:13:51.294 [main] INFO  api.test.UserTestsForPropertiesResources - ********** Reading user info ***********
+12:13:52.015 [main] INFO  api.test.UserTestsForPropertiesResources - ********** User info displayed ***********
+12:13:52.020 [main] INFO  api.test.UserTestsForPropertiesResources - ********** Updating user info ***********
+12:13:53.442 [main] INFO  api.test.UserTestsForPropertiesResources - ********** User info updated ***********
+12:13:53.447 [main] INFO  api.test.UserTestsForPropertiesResources - ********** Deleting user ***********
+12:13:54.877 [main] INFO  api.test.UserTestsForPropertiesResources - ********** User deleted ***********
